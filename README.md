@@ -85,7 +85,7 @@ Version Control:<br>
 
 ### Deploy
 
-The application layout is available on Heroku: ![Codify](https://codify-frontend.herokuapp.com/)
+The application layout is available on Heroku: [Codify](https://codify-frontend.herokuapp.com/)
 
 <br><br>
 ## Contributors
