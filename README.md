@@ -4,7 +4,7 @@
 
 # Codify-front
 
-![total lines](https://img.shields.io/tokei/lines/github/KlaussVP/codefy-front) ![last commit](https://img.shields.io/github/last-commit/KlaussVP/codefy-front?style=flat-square)
+![total lines](https://img.shields.io/tokei/lines/github/KlaussVP/codify-front) ![last commit](https://img.shields.io/github/last-commit/KlaussVP/codify-front?style=flat-square)
 
 ## About
 <p>
