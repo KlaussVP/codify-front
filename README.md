@@ -1,4 +1,4 @@
-<p align:"center">
+<p align="center">
   <img src="public/assets/images/coding.gif" width="310" alt="Codify" />
 </p>
 
@@ -11,9 +11,9 @@
   Codify is a code learning courses platform where you can start a course and start right away learning any number of programming languages through a series of exercises supported with instructional videos in each topic. This project was developed during the full stack bootcamp of Responde Aí.
 </p>
 
-<img style="text-align: center" src="public/assets/images/programming.gif"/>
+<img align="center" src="public/assets/images/programming.gif"/>
 
-<p style="text-align: center">
+<p align="center">
     <a href="#features">Features</a> •
     <a href="#stack">Stack</a> •
     <a href="#deploy">Deploy</a> •
@@ -50,7 +50,7 @@
 
 ### Stack
 Languages:<br>
-<p style="text-align: center">
+<p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -60,7 +60,7 @@ Languages:<br>
 The following tools were used in the construction of the project:
 
 The following tools and frameworks were used in the construction of the project:<br>
-<p style='display: flex; justify-content: center; flex-wrap:wrap; align-items: center; margin: 0 50px; text-align: center;'>
+<p align="center" style='display: flex; justify-content: center; flex-wrap:wrap; align-items: center; margin: 0 50px;'>
   <img style='margin: 5px;' src='https://img.shields.io/badge/styled-components%20-%2320232a.svg?&style=for-the-badge&color=b8679e&logo=styled-components&logoColor=%3a3a3a'>
   <img style='margin: 5px;' src='https://img.shields.io/badge/axios%20-%2320232a.svg?&style=for-the-badge&color=informational'>
   <img style='margin: 5px;' src='https://img.shields.io/badge/babel%20-%2320232a.svg?&style=for-the-badge&color=323230&logo=babel&logoColor=%f4dc4e'>
@@ -76,7 +76,7 @@ The following tools and frameworks were used in the construction of the project:
 </p>
 <br>
 Version Control:<br>
-<p style="text-align: center">
+<p align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -89,12 +89,12 @@ The application layout is available on Heroku: ![Codify](https://codify-frontend
 
 <br><br>
 ## Contributors
-<table style="display: flex; justify-content: space-between;">
+<table>
   <tr>
-    <td style="text-align: center; margin-right: 20px;"><a href="https://github.com/fabiolmorato"><img src="https://avatars.githubusercontent.com/u/28456685?v=4" width="100px;" alt="Fábio Morato"/><br /><sub><b>Fábio Morato</b></sub></a><br />
+    <td align="center" style="margin-right: 20px;"><a href="https://github.com/fabiolmorato"><img src="https://avatars.githubusercontent.com/u/28456685?v=4" width="100px;" alt="Fábio Morato"/><br /><sub><b>Fábio Morato</b></sub></a><br />
   </tr>
   <tr>
-    <td style="text-align: center; margin-right: 20px;"><a href="https://github.com/responde-ai"><img src="https://avatars3.githubusercontent.com/u/40724166?s=200&v=4" width="100px;" alt="Responde Aí"/><br /><sub><b>Responde Aí</b></sub></a><br />
+    <td align="center" style="margin-right: 20px;"><a href="https://github.com/responde-ai"><img src="https://avatars3.githubusercontent.com/u/40724166?s=200&v=4" width="100px;" alt="Responde Aí"/><br /><sub><b>Responde Aí</b></sub></a><br />
   </tr>
 </table>
 
@@ -103,21 +103,21 @@ The application layout is available on Heroku: ![Codify](https://codify-frontend
 ### Authors
 ---
 
-<p style="text-align: center">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/70959664?v=4" width="100px"/>
   Made by Bruna Topan<br><br> 
   👋 Get in Touch!<br>
   <a href="https://www.linkedin.com/in/bruna-topan-69a183139/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/brunatb"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<p style="text-align: center">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/51971072?v=4" width="100px"/>
   Luis Ganimi<br><br>
   👋 Get in Touch!<br>
   <a href="https://www.linkedin.com/in/luisgustavo-ganimi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/luguin444"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<p style="text-align: center">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/70972865?v=4" width="100px"/>
   & Klauss Correa<br><br>
   👋 Get in Touch!<br>
